@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,edge-chat.facebook.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 
+#规则名称: discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
 
 #规则名称: design 设计
 DOMAIN-SUFFIX,behance.net
