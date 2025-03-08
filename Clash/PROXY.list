@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+DOMAIN-KEYWORD,discord
 
 #规则名称: design 设计
 DOMAIN-SUFFIX,behance.net
