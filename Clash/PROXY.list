@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,web-chat-e2ee.facebook.com
+DOMAIN-KEYWORD,edge-chat.facebook.com
+DOMAIN-KEYWORD,edge-chat.facebook.com
 
 #规则名称: design 设计
 DOMAIN-SUFFIX,behance.net
