@@ -1,10 +1,13 @@
 # 规则名称: AI
 # 规则统计: 35
 
+
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,api.github.com
 DOMAIN,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,anthropic.com
