@@ -1,11 +1,12 @@
 # 规则名称: AI
 # 规则统计: 35
 
-DOMAIN,midjourney.com
+
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,api.github.com
 DOMAIN,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
