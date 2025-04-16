@@ -121,6 +121,7 @@ DOMAIN,search.yahoo.co.jp
 DOMAIN,sessions.bugsnag.com
 DOMAIN,tronlink-images.s3.us-east-2.amazonaws.com
 DOMAIN,vcards.metowolf.com
+DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,aboutamazon.com
