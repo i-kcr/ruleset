@@ -1,5 +1,5 @@
 # 规则名称: TikTok
-# 规则统计: 96
+# 规则统计: 106
 USER-AGENT,TikTok*
 DOMAIN,api.snapkit.com
 DOMAIN,cocacola.co.jp
@@ -99,3 +99,10 @@ DOMAIN-KEYWORD,ttcdn-tos.
 DOMAIN-KEYWORD,ttlivecdn.com.
 DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-KEYWORD,tiktokcdn.com
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,ttwebview.com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tiktok
+PROCESS-NAME,com.zhiliaoapp.musically
