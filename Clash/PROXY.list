@@ -3,7 +3,8 @@
 #未知应用
 DOMAIN-SUFFIX,imageglass.org
 DOMAIN-SUFFIX,qichiyu.com
-
+DOMAIN-SUFFIX,check.adspower.com
+DOMAIN-SUFFIX,check.myclientip.com
 #规则名称: Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
